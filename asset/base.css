@@ -1,0 +1,7 @@
+:root {
+    --primaryColor: background-color: linear-gradient(#49BE55, #A174DB)
+    --textHeading: #222;
+    --textParagraph: #555;
+    --borderColor: #707070;
+    --fontParagraph: 14px;
+}
